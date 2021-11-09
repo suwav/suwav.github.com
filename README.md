@@ -1,1 +1,1 @@
-# suwav.github.com
+<script>location.href="https://exmail.qq.com/"</script>
