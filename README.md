@@ -1,1 +1,1 @@
-<script>location.href="https://exmail.qq.com/"</script>
+<script>location.href="https://exmail.qq.com/login"</script>
